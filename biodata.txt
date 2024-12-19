@@ -1,3 +1,4 @@
 NO. REG : 2320010064
 NAMA	: Dharmawan Surya Kusuma
 JURUSAN	: Teknik Informatika / Software Engineering
+ANGKATAN : 2023
